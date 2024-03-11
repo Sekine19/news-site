@@ -234,8 +234,11 @@ section.cards .container .inner .card-btn button {
     position: relative;
 }
 
-footer .footer-top {
+footer {
     background-color: #fbfbfb;
+}
+
+footer .footer-top {
     padding: 50px 0 25px 0;
     margin-top: 50px;
 }
